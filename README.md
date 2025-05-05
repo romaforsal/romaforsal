@@ -19,7 +19,7 @@
 
 ## 📊 Estadísticas
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=romaforsal&show_icons=true&theme=radical)
 
 ---
 
