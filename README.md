@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Romà
+# 👋 ¡Hola! Soy Romà Forns
 
 🎓 Actualmente soy estudiante de **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en el **Ciclo Formativo de Grado Superior** en la escuela **Monlau** (Barcelona).
 
@@ -27,6 +27,6 @@
 
 Puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario) (si tienes)
-- Correo: tuemail@ejemplo.com
+- [LinkedIn](https://www.linkedin.com/in/rom%C3%A0-forns-salvador-645065350/)
+- Correo: romaforsal@campus.monlau.com
   
